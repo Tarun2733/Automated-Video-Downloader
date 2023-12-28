@@ -11,3 +11,4 @@ yd = yt.streams.get_by_resolution('720p') #this will get the video with 720p res
 
 print("Downloading...")
 yd.download("F:\Automated Video Downloader\Downloaded Video")
+print("Download completed!!")
